@@ -1,0 +1,11 @@
+ID_Cliente,Nome_Cliente,Produto,Quantidade,Preco_Unitario,Data_Venda
+1,Ana Souza,Notebook,1,3500.0,2024-02-01
+2,Carlos Lima,Mouse,2,150.0,2024-02-02
+3,Beatriz Mendes,Teclado,1,200.0,2024-02-03
+4,Diego Rocha,Monitor,1,1200.0,2024-02-04
+5,Eduardo Silva,Impressora,1,900.0,2024-02-05
+6,Fernanda Alves,Cadeira Gamer,1,750.0,2024-02-06
+7,Gabriel Santos,Notebook,1,3500.0,2024-02-07
+8,Helena Costa,Mousepad,3,50.0,2024-02-08
+9,Isabela Ferreira,Monitor,2,1200.0,2024-02-09
+10,Carlos,Fone de Ouvido,1,300.0,2024-02-10
